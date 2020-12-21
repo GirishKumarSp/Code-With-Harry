@@ -26,7 +26,3 @@ else:
          choose= rows - i
          print("*" * choose)
 """
-
-
-
-
