@@ -33,7 +33,7 @@ while number_of_rounds<10:
         print("computer gets the point")
 
     elif choice=="water"and Autogenerate =="snake":
-        computer+1
+        computer+=1
         print("computer gets the point")
     elif choice == "water" and Autogenerate =="water":
         print("no one gets the point as the game is draw")
