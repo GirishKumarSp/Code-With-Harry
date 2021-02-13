@@ -1,0 +1,26 @@
+1) [2021-01-05 00:50:30] : Drank water
+2) [2021-01-05 00:50:37] : Drank water
+3) [2021-01-05 00:50:41] : exercise done
+4) [2021-01-05 00:50:44] : Drank water
+5) [2021-01-05 00:50:49] : physical activity done
+6) [2021-01-05 00:50:56] : Drank water
+7) [2021-01-05 00:51:01] : exercise done
+8) [2021-01-05 00:51:03] : Drank water
+1) [2021-01-05 00:51:43] : Drank water
+2) [2021-01-05 00:51:51] : exercise done
+3) [2021-01-05 00:51:54] : Drank water
+4) [2021-01-05 00:52:05] : physical activity done
+1) [2021-01-05 00:54:22] : Drank water
+2) [2021-01-05 00:54:28] : Drank water
+3) [2021-01-05 00:54:30] : exercise done
+4) [2021-01-05 00:54:37] : Drank water
+5) [2021-01-05 00:54:42] : physical activity done
+6) [2021-01-05 00:54:44] : Drank water
+7) [2021-01-05 00:54:49] : exercise done
+8) [2021-01-05 00:54:50] : Drank water
+9) [2021-01-05 00:54:58] : Drank water
+10) [2021-01-05 00:55:06] : Drank water
+11) [2021-01-05 00:55:08] : exercise done
+12) [2021-01-05 00:55:11] : physical activity done
+13) [2021-01-05 00:55:14] : Drank water
+1) [2021-01-05 00:58:42] : Drank water
